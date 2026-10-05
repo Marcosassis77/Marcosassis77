@@ -218,9 +218,7 @@ Projeto desenvolvido durante minha formação, relacionado aos estudos de desenv
 # 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcosassis77&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
+  <img src="https://github-readme-activity-graph.k33g.workers.dev/graph?username=Marcosassis77&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -228,9 +226,7 @@ Projeto desenvolvido durante minha formação, relacionado aos estudos de desenv
 # 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Marcosassis77&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
+  <img src="https://github-profile-trophies.vercel.app/?username=Marcosassis77&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </div>
 
 ---
