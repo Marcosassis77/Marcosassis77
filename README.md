@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Marcosassis77&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/Marcosassis77?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOLLOWERS-1-00E5FF?style=for-the-badge&logo=github&labelColor=050505" />
 
 <img src="https://img.shields.io/github/stars/Marcosassis77/Marcosassis77?label=STARS&style=for-the-badge&color=00E5FF&labelColor=050505"/>
 
