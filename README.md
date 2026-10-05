@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/github/followers/Marcosassis77?label=FOLLOWERS&style=for-the-badge&color=00E5FF&labelColor=050505"/>
 
-<img src="https://img.shields.io/github/stars/Marcosassis77?label=STARS&style=for-the-badge&color=00E5FF&labelColor=050505"/>
+<img src="https://img.shields.io/github/stars/Marcosassis77/Marcosassis77?label=STARS&style=for-the-badge&color=00E5FF&labelColor=050505"/>
 
 </div>
 
@@ -218,8 +218,9 @@ Projeto desenvolvido durante minha formação, relacionado aos estudos de desenv
 # 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcosassis77&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosassis77&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <a href="https://github.com/ashutosh0071/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.k33g.workers.dev/graph?username=Marcosassis77&theme=react-dark&bg_color=0d1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  </a>
 </div>
 
 ---
